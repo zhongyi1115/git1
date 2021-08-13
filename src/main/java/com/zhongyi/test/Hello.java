@@ -11,5 +11,6 @@ public class Hello {
         System.out.println("hello git1!");
         System.out.println("hello git2!");
         System.out.println("master git2!");
+        System.out.println("hot git2!");
     }
 }
