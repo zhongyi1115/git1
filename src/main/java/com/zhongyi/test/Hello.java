@@ -13,5 +13,6 @@ public class Hello {
         System.out.println("master git2!");
         System.out.println("hot git2!");
         System.out.println("hot git3!");
+        System.out.println("hot git4!");
     }
 }
